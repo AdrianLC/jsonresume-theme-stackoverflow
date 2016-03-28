@@ -550,6 +550,9 @@ ul.courses li:hover {
     @page {
         margin: 1cm 1.4cm;
     }
+    body {
+        margin: 1cm 1.4cm;
+    }
 
     .item-count {
         display: none;
